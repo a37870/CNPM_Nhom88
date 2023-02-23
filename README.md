@@ -7,3 +7,4 @@ App dùng để quản lý giảng viên, phân công lịch giảng dạy đế
 # Thành viên
 - A37870 Nguyễn Thùy Linh
 - A37679 Nguyễn Ngọc Ngân
+- A38725 Nguyễn Quang Thắng
